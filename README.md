@@ -26,4 +26,4 @@ This notebook plots the average p-value, the 95th percentile for the p-value, an
 This encodes the noise curve for LISA. The user needs to download this file, though the user does not need to edit it in any way. 
 
 5. SNR_Ranges.ipynb:
-This notebook computes SNR ranges for the mergers in GM7 by sampling inclination and spin from distributions. The user does not need to change anything here, beyond adjusting paths to their desired directories for L3_Noise.txt, for saving plots, or for loading fonts used in plots. 
+This notebook computes SNR ranges for the mergers in GM7 by sampling inclination and spin from distributions. The user does not need to change anything here, beyond adjusting paths to their desired directories for L3_Noise.txt, for saving plots, and for loading fonts used in plots. 
