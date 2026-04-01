@@ -7,7 +7,8 @@ In this work we use simulations of two Milky Way - mass galaxies to build sets o
 Note that the relevant data (the cosmic times and mass ratios of mergers in the simulations) is included in the notebooks.
 
 Directions for Using Each File:
-For all files: The notebooks load certain fonts near the top of the code, which are used in the plots. If you wish to use the exact fonts we used, you would need to ensure that these are installed, and adjust the directory personal_path = "/home/hoelsczj/Library/static/" to point to the correct place for this font file. Alternatively, one can simply delete this portion and use the default font for matplotlib. 
+For all files: 
+The notebooks load certain fonts near the top of the code, which are used in the plots. If you wish to use the exact fonts we used, you would need to ensure that these are installed, and adjust the directory personal_path = "/home/hoelsczj/Library/static/" to point to the correct place for this font file. Alternatively, one can simply delete this portion and use the default font for matplotlib. 
 
 1. Cosmic_Time_Pipeline.ipynb:
 Near the top of the file we have: Number_Mergers_Seen_LISA=70
