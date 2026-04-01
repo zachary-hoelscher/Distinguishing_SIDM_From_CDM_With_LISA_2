@@ -20,7 +20,7 @@ This number can be adjusted to vary the number of mergers LISA sees over the cou
 The directions for using this are identical to the directions for Cosmic_Time_Pipeline.ipynb.
 
 3. Average_P_Value_95th_Percentile.ipynb:
-This notebook plots the average p-value, the 95th percentile for the p-value, and the significance threshold against the number of mergers seen by LISA over the course of the mission. This encodes the number of mergers seen in “x”, the average p-values in “pvalues” and the 95th percentile values in Percentile95. This would need to be adjusted for both cosmic time and mass ratio to match the values from the user’s runs. The user should also adjust the pathways in the notebook so that plots save to their desired directories. 
+This notebook plots the average p-value, the 95th percentile for the p-value, and the significance threshold against the number of mergers seen by LISA over the course of the mission. This encodes the number of mergers seen in “x”, the average p-values in “pvalues” and the 95th percentile values in "Percentile95". This would need to be adjusted for both cosmic time and mass ratio to match the values from the user’s runs. The user should also adjust the pathways in the notebook so that plots save to their desired directories. 
 
 4. L3_Noise.txt:
 This encodes the noise curve for LISA. The user needs to download this file, though the user does not need to edit it in any way. 
